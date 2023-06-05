@@ -21,6 +21,8 @@ Published in IEEE Transaction on Pattern Analysis and Machine Intelligence (__[T
 Imperial College London
 <br/>
 
+## New work, FitMe
+Check out our new CVPR 2023 work, [FitMe: Deep Photorealistic 3D Morphable Model Avatars](https://lattas.github.io/fitme.html)
 
 ## Overview
 

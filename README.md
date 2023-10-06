@@ -96,7 +96,7 @@ and subjects captured with a [3dMD](https://3dmd.com/) device.
 
 ## Code
 This model has been commercialized and is not released publicly,
-but we have released the rendering code used in AvatarMe++ as a Pytorch3D extension [Pytorch3D-Me](github.com/lattas/pytorch3d-me).
+but we have released the rendering code used in AvatarMe++ as a Pytorch3D extension [Pytorch3D-Me](https://github.com/lattas/pytorch3d-me).
 It includes the UV-space rendering, Blinn-Phong shader, subsurface scattering, and occlusion approximations.
 
 ## Public Dataset

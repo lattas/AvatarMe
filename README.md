@@ -21,8 +21,10 @@ Published in IEEE Transaction on Pattern Analysis and Machine Intelligence (__[T
 Imperial College London
 <br/>
 
-## New work, FitMe
-Check out our new CVPR 2023 work, [FitMe: Deep Photorealistic 3D Morphable Model Avatars](https://lattas.github.io/fitme.html)
+## Follow-up Works
+If you are interested in this work, you may also be interested in our follow-up works:
+- (CVPR 2023) FitMe: Deep Photorealistic 3D Morphable Model Avatars ([Project Page](https://lattas.github.io/fitme.html))
+- (ICCV 2023) Relightify: Relightable 3D Faces from a Single Image via Diffusion Models ([Project Page](https://foivospar.github.io/Relightify/))
 
 ## Overview
 
@@ -91,6 +93,11 @@ and datasets such as
 and subjects captured with a [3dMD](https://3dmd.com/) device. 
 
 <br>
+
+## Code
+This model has been commercialized and is not released publicly,
+but we have released the rendering code used in AvatarMe++ as a Pytorch3D extension [Pytorch3D-Me](github.com/lattas/pytorch3d-me).
+It includes the UV-space rendering, Blinn-Phong shader, subsurface scattering, and occlusion approximations.
 
 ## Public Dataset
 *RealfaceDB* can now be obtained by accredited researchers
